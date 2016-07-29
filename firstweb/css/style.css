@@ -1,0 +1,587 @@
+.navv li{
+  display:inline-block;
+  //background: red;
+}
+.head
+{
+  //position: fixed;
+  //background: #009900;
+  background: #ffb3ff;
+  height:100px;
+  border-radius: 5px 5px 20px 20px;
+}
+.tit{
+  font-size: 50px;
+  margin-top: 12.5px;
+  margin-bottom: 12.5px;
+}
+.navv{
+  font-size: 20px;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  margin-left: 400px;
+}
+.tit a{
+  color: black;
+  text-decoration: none;
+  //font-family: 'Lobster', cursive;
+  font-family:'Chewy', cursive;
+}
+.navv a{
+  color: black;
+  text-decoration: none;
+  padding-left: 14px;
+  padding-right: 14px;
+}
+.hero img
+{
+  //margin-left: 110px;
+  margin-left: 0px;
+  margin-top: 100px;
+  width: 960px;
+  height: 570px;
+}
+.bodi
+{
+  background:#ffe6ff;
+  //height:900px;
+}
+
+.fixx{
+  //float: left;
+  position: fixed;
+  z-index: 9999;
+  //position: relative;
+}
+/*
+.fixx .fix2
+{
+  z-index: 999;
+}
+*/
+.hero .grid_12
+{
+  position: relative;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.quote
+{
+  font-size: 30px;
+  position: absolute;
+  bottom: 100px;
+}
+.qu
+{
+  font-family: 'Dancing Script', cursive;
+  font-size: 50px;
+}
+.mu
+{
+  color: orange;
+  font-family: 'Lobster', cursive;
+  font-size: 80px;
+}
+.navv a:hover
+{
+  //text-shadow: 2px 2px 8px #006600;
+  color: #777;
+}
+.image img
+{
+  opacity: 0.7;
+  width:480px;
+  //height: 570px;
+}
+.top
+{
+  font-family: 'Lobster', cursive;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 50px;
+}
+.contentss
+{
+  //font-family: 'Courgette', cursive;
+  font-family: 'Crimson Text', serif;
+  font-size: 25px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 30px;
+}
+.contentss p
+{
+  text-align: justify;
+  opacity:0.8;
+}
+.imgg .grid_6
+{
+  margin-left: 0px;
+  margin-right: 0px;
+}
+/*
+.bodii
+{
+  background-image: url("img/music.jpg");
+  width:960px;
+  height: 300px;
+  opacity: 0.5;
+}
+*/
+
+
+
+.back .cat{
+  font-size: 30px;
+}
+
+.back .des
+{
+  text-align: justify;
+  //font-family: 'Courgette', cursive;
+  font-family: 'Crimson Text', serif;
+  font-size: 25px;
+}
+
+.back p{
+  margin-top:  40px;
+  //font-weight: bold;
+}
+
+.categ .grid_4
+{
+  background-color: #ffffff;
+  //border: 1px solid black;
+  //opacity: 0.6;
+}
+.categ .grid_4 p{
+    margin: 5%;
+    //font-weight: bold;
+    //color: #000000;
+    color: #555;
+    //opacity: 1;
+  }
+
+
+  .back
+  {
+    //background-image: url("../img/music.jpg");
+    //opacity: 0.5;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+    margin-top:  40px;
+
+  }
+
+  .foot ul li a
+  {
+    text-decoration: none;
+  }
+
+
+  .foot ul
+  {
+    margin-top: 30px;
+  }
+  .foot ul li:first-child a
+  {
+    font-weight: bold;
+  }
+
+
+  .foot img{
+    height: 20px;
+    width: 20px;
+  }
+
+  .social li
+  {
+    display: inline;
+  }
+/*
+.grid_6 .top, .grid_6 .content
+{
+  margin-right: 20px;
+}
+*/
+/*
+.dwn
+{
+  position: static;
+  margin-top: 100px;
+}
+*/
+/*
+.ad
+{
+  position: relative;
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*playlist style*/
+.bod
+{
+  background-color: #ffe6ff;
+  //border-radius: 20px
+  //width:960px;
+  //height:900px;
+}
+.bgspace
+{
+  background-color: #ffe6ff;
+  height:  70px;
+}
+
+
+.space
+{
+  //background-color: #ffe6ff;
+  margin-top: 90px;
+}
+
+.base
+{
+  margin-top: 50px;
+  font-family: 'Lobster', cursive;
+  font-size: 25px;
+  color: #444;
+  //border-radius: 20px
+}
+
+.list
+{
+  //border-radius: 20px
+  //margin-bottom: 300px;
+  margin-top: 30px;
+  background-color:  #ffccff;
+  height: 90px;
+  border-radius: 20px;
+  text-align: center;
+  font-family: 'Courgette', cursive;
+  font-size: 20px;
+
+}
+
+.list a{
+  text-decoration: none;
+  color: black;
+}
+
+p{
+  padding-top: 35px;
+}
+
+a:hover
+{
+  color: #999;
+  opacity: 0.5;
+}
+
+.bodiis
+{
+  background-image: url("../img/music.jpg");
+  //background-image: url("../img/music.jpg");
+  width:960px;
+  height: 200px;
+  opacity: 0.5;
+}
+
+
+.bodiis
+{
+  position: relative;
+}
+
+.txt
+{
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  font-family: 'Lobster', cursive;
+  color: orange;
+  font-size: 50px;
+}
+/*
+.grid_2 .list
+{
+  text-align: center;
+  padding-top:30px;
+}
+*/
+
+/*
+.cov
+{
+  //background-color: #ffb3ff;
+  background-color:  #ffccff;
+  border-radius: 20px;
+  width: 50px;
+  margin-right: 0px;
+  //background-size: 30px;
+  //padding:90px;
+
+}
+
+li
+{
+  display: inline;
+  //width: 90px;
+  //margin-right: 0px;
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+/*mytune style*/
+/*
+
+.bod
+{
+  background-color: #ffe6ff;
+  //border-radius: 20px
+  //width:960px;
+  //height:900px;
+  font-family: 'Lobster', cursive;
+  font-size: 25px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  color: orange;
+}
+
+.bgspace
+{
+  background-color: #ffe6ff;
+  height: 70px;
+}
+hr
+{
+  color: #999;
+  background: #ffb3ff;
+  height: 2px;
+  //margin-top: 30px;
+  //margin-bottom: 10px;
+}
+
+.list img{
+  width: 140px;
+  height: 140px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  opacity: 0.5;
+}
+
+
+.list img:hover
+{
+  opacity: 1;
+}
+
+
+*/
+
+
+
+
+
+
+
+
+
+
+/*contact style*/
+.hoff
+{
+  margin-top: 150px;
+}
+.bod{
+  background-color: #ffe6ff;
+}
+.roff{
+  margin-top: 30px;
+}
+hr
+{
+  color: #999;
+  background-color: #999;
+  height: 2px;
+  //margin-top: 30px;
+  //margin-bottom: 10px;
+}
+.hoff,.roff
+{
+  //font-family: 'Dancing Script', cursive;
+  font-family: 'Lobster', cursive;
+  font-size: 30px;
+}
+.off
+{
+  margin-top: 20px;
+  font-family: 'Lobster', cursive;
+  font-size: 20px;
+}
+.add
+{
+  //font-family: 'Courgette', cursive;
+  font-family: 'Crimson Text', serif;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+
+
+
+
+/*mytune*/
+.bods
+{
+  background-color: #ffe6ff;
+  //border-radius: 20px
+  //width:960px;
+  //height:900px;
+  font-family: 'Lobster', cursive;
+  font-size: 25px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  color: orange;
+}
+
+.bgspace
+{
+  background-color: #ffe6ff;
+  height: 70px;
+}
+
+hr
+{
+  color: #999;
+  background: #ffb3ff;
+  height: 2px;
+  //margin-top: 30px;
+  //margin-bottom: 10px;
+}
+
+.lists img{
+  width: 140px;
+  height: 140px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  opacity: 0.5;
+}
+
+/*
+.bods .list img:hover
+{
+  opacity: 1;
+}
+*/
+.lists img:hover
+{
+  opacity:1;
+}
+
+
+
+.bods .lists
+{
+  height: 200px;
+}
+
+
+
+/*music style*/
+.lstt
+{
+
+  font-size: 15px;
+  color: black;
+}
+
+.lstt a{
+  text-decoration: none;
+  color: black;
+
+}
+
+.lstt p{
+  font-family: 'Courgette', cursive;
+  //font-family: 'Crimson Text', serif;
+  //margin-top: 20px;
+}
+
+
+.lstt ol{
+  list-style-type: 1;
+}
+
+.hd
+{
+  font-family: 'Lobster', cursive;
+  color: orange;
+  font-size: 30px;
+}
+
+
+
+
+/*index*/
+
+.bodii
+{
+  background-image: url("../img/music.jpg");
+  width:960px;
+  height: 300px;
+  opacity: 0.5;
+}
+
+.contentss p{
+  padding-top: 0px;
+}
+
+
+.pp p{
+  padding-top: 0px;
+}
+
+
+
+/*song style*/
+
+
+.bckk
+{
+  background-color: #ffe6ff;
+}
+.dwnn
+{
+  height:250px;
+}
+
+
+/*my tune*/
+.igg img:hover
+{
+  opacity: 1;
+}
